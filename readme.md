@@ -1,4 +1,4 @@
-# Nama Proyek Kamu
+# SISTEM MONITORING PERBAIKAN MESIN
 
 [![Lisensi](https://img.shields.io/badge/Lisensi-MIT-green)](https://opensource.org/licenses/MIT)
 [![Status Proyek](https://img.shields.io/badge/Status-Aktif-brightgreen)](https://github.com/username/repository-name/graphs/commit-activity) 
